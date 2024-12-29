@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhealth_tracker"]=self["webpackChunkhealth_tracker"]||[]).push([[594],{9220:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var u=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"about"},[e("h1",[t._v("This is an about page")])])}],r=n(1656),s={},l=(0,r.A)(s,u,a,!1,null,null,null),c=l.exports}}]);
+//# sourceMappingURL=about.8c821158.js.map
